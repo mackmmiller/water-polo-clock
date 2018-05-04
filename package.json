@@ -1,0 +1,20 @@
+{
+  "name": "water-polo-clock",
+  "version": "1.0.0",
+  "main": "js/index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest --watchAll"
+  },
+  "author": "Mackenzie Miller",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "jest": "^22.4.3",
+    "parcel-bundler": "^1.8.1"
+  }
+}
